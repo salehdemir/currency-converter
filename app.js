@@ -49,7 +49,7 @@ const updateFlag = (element) => {
   img.src = newSrc;
 };
 
-btn.addEventListener("click", (evt) => {
+btn.addEventListener("click", (evt) => { 
   evt.preventDefault();
   updateExchangeRate();
 });

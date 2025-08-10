@@ -15,8 +15,8 @@ body {
   background-color: #fff;
   padding: 2rem;
   border-radius: 1rem;
-  min-height: 45vh;
-  width: 40vh;
+  min-height: 50vh;
+  width: 50vh;
 }
 
 form {
@@ -40,7 +40,7 @@ form input {
 }
 
 .dropdown {
-  display: flex;
+ display: flex;
   justify-content: space-between;
   align-items: center;
   margin-top: 2rem;
